@@ -1,9 +1,11 @@
+//ES5 문법
 var num1 =1;
 var num2 =2;
 var result = 3;
 var string1 = num1 + '더하기' + num2 + '는 \'' + result  + '\''
 console.log(string1);
 
+//ES2015문법
 var num3 = 1;
 var num4 = 2;
 var result2 = 3;
